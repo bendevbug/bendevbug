@@ -1,4 +1,4 @@
 ## Meu nome é Maysa :)
-### Sou estudante de dsenvolvimento web e de análise e desenvolvimento de sistemas 
+### Sou estudante de desenvolvimento web e de análise e desenvolvimento de sistemas 
 
 
