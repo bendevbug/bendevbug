@@ -5,7 +5,7 @@
 _**Estudo há mais de 3 anos Desenvolvimento web e pratico há menos de 1 ano pela falta de tempo e fim de ensino médio**_
 <p>Meu maior sonho dentro dos meus estudos é me realizar profissionalmente trabalhando com desenvolvimento de sites e sistemas.
 <br> Na garnde parte do tempo estagio como suporte de T.I num hospital convivendo com todo tipo de problema! Minha curiosidade e amor por
-tecnologia são sempre insaciavéis. Aqui coloco os meus projetos **(maioria tudo desenvolvido por mim 100%)*, tenho grande interesse em estudar UI E UIX Design, amo back-end, mas front-end é realmente espetacular.
+tecnologia são sempre insaciavéis. Aqui coloco os meus projetos <strong>(maioria tudo desenvolvido por mim 100%)</strong>, tenho grande interesse em estudar UI E UIX Design, amo back-end, mas front-end é realmente espetacular.
 </p>
 <br>
 <h2> Minhas Skills <h2> 
