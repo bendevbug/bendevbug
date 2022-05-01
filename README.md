@@ -2,7 +2,7 @@
 ### Sou estudante de desenvolvimento web e de análise e desenvolvimento de sistemas 
 
 
-_**Estudo há mais de 3 anos Desenvolvimento web**_
+_**Estudo há mais de 1 ano Desenvolvimento web**_
 <p> 🎯 Desenvolvedora web em desenvolvimento</p>
 <p> 📧 email para contato: <strong> maysaraquel.ia@gmail.com </strong> <p> 
 
