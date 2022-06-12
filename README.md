@@ -20,6 +20,7 @@ _**Estudo há mais de 1 ano Desenvolvimento web**_
   
  <p align="center">Estudando: <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70px" />
  </p>
  
  <br>
