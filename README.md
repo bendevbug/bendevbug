@@ -3,7 +3,7 @@
 
 
 _**Estudo há mais de 1 ano Desenvolvimento web**_
-<p> 🎯 Desenvolvedora web em desenvolvimento</p>
+<p> 🎯 Desenvolvedor web em desenvolvimento</p>
 <p> 📧 email para contato: <strong> maysaraquel.ia@gmail.com </strong> <p> 
 
 <br>
