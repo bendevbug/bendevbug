@@ -4,7 +4,8 @@
 
 
 <h4> Desenvolvedor web front-end</h4>
-<p> 📧 email para contato: <strong> maysaraquel.ia@gmail.com </strong> <p> 
+<p> 📧 email para contato: <strong> maysaraquel.ia@gmail.com </strong> <p>
+<p> Acesse o meu notion!! <a color="red" href="https://plume-macaroni-0db.notion.site/Portif-lio-f115b890ec86442cbf2e1d5a08a504c6">Portifólio</a></p>
 
 <br>
 <h2 align="center"> Minhas Skills <h2> 
@@ -32,4 +33,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayzinng&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <br>
-  <br>
+<br>
+
+
+![Snake animation](https://github.com/mayzinng/mayzinng/blob/output/github-contribution-grid-snake.svg)
+  
