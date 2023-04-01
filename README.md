@@ -5,7 +5,9 @@
 
 <h4> Desenvolvedor web front-end</h4>
 <p> 📧 email para contato: <strong> maysaraquel.ia@gmail.com </strong> <p>
-<p> Acesse o meu notion!! <a color="red" href="https://plume-macaroni-0db.notion.site/Portif-lio-f115b890ec86442cbf2e1d5a08a504c6">Portifólio</a></p>
+<p> Acesse o meu notion!! <a color="red" href="https://plume-macaroni-0db.notion.site/Portif-lio-f115b890ec86442cbf2e1d5a08a504c6">Portifólio</a> <br>
+ Nele você encontra meus cursos, projetos e currículo. Interessado em vagas de full-stack ou apenas frontend.
+</p>
 
 ![Snake animation](https://github.com/mayzinng/mayzinng/blob/output/github-contribution-grid-snake.svg)
 
