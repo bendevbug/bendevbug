@@ -4,7 +4,7 @@
 
 
 <h4> Desenvolvedor web front-end</h4>
-<p> 📧 email para contato: <strong> benj.inaacio03@gmail.com </strong> <p>
+<p> 📧 email para contato: <strong> benj.inacio03@gmail.com </strong> <p>
  Nele você encontra meus cursos, projetos e currículo. Interessado em vagas de full-stack ou apenas frontend.
 </p>
 
