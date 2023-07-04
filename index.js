@@ -4,7 +4,7 @@ Pull requests
 Issues
 Marketplace
 Explore
-@mayzinng
+@bendevbug
 anuraghazra /
 github-readme-stats
 Public
