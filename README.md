@@ -8,7 +8,7 @@
 Interessado em vagas de full-stack ou apenas frontend.
 </p>
 
-![Snake animation](https://github.com/mayzinng/mayzinng/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/bendevbug/bendevbug/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 <h2 align="center"> Minhas Skills <h2> 
@@ -31,9 +31,9 @@ Interessado em vagas de full-stack ou apenas frontend.
  <br>
  
  <div align="center">
-  <a href="https://github.com/mayzinng">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mayzinng&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mayzinng&layout=compact&langs_count=7&theme=synthwave"/>
+  <a href="https://github.com/bendevbug">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bendevbug&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bendevbug&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <br>
 <br>
