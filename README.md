@@ -5,7 +5,7 @@
 
 <h4> Desenvolvedor web front-end</h4>
 <p> 📧 email para contato: <strong> benj.inacio03@gmail.com </strong> <p>
-Interessado em vagas de full-stack ou apenas frontend.
+<strong>Currículo: https://docs.google.com/document/d/1yiincEJr1-itxu4JooVX_4O9Rb-Uh5Gj14UOEFHUg0E/edit?usp=sharing </strong>
 </p>
 
 ![Snake animation](https://github.com/bendevbug/bendevbug/blob/output/github-contribution-grid-snake.svg)
