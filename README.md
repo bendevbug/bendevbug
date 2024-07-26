@@ -3,7 +3,7 @@
 
 
 
-<h4> Desenvolvedor web front-end 🏳️‍⚧️</h4>
+<h4> Desenvolvedor stack🏳️‍⚧️</h4>
 <p> 📧 email para contato: <strong> benj.inacio03@gmail.com </strong> <p>
 <strong><a href="https://docs.google.com/document/d/1tS4YAG5fCwHRKA0wotlWy7cLzVJGxwzCiydrLHz2O4g/edit?usp=sharing">Currículo benjamin dev</a></strong>
 </p>
